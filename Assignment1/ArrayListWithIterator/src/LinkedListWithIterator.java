@@ -1,3 +1,10 @@
+/*************************************************
+ File: LinkedListWithIterator.java
+ By: Hugo Gomez
+ Date: 2/19/2024
+ Description: Program of the implementation of the
+ linked list and the iterator
+ *************************************************/
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
